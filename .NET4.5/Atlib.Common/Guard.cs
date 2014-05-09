@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Atlib.Common
+namespace Atlib
 {
 	/// <summary>
 	/// Contains common methods that guard parameter inputs.
